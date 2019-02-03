@@ -1,0 +1,2 @@
+In the following Java method, the file is opened with the Java FileReader and BufferedReader, and then, as each line of
+the file is read it is assigned to a Java String, with each String in turn being added to an ArrayList named records.
